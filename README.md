@@ -5,6 +5,8 @@ GregTechV2,V2.1.lang это 2 перевода разных версий (мех
 
 GregTechV2.1 сейчас самый лучший вариант в нем нет повторений оигинальных названий и заполнения пустых подсказок скобками,скачивать лучше ее.
 
+Для установки просто замените оригинальный файл GregTech.lang в папке .minecraft на файл GregTech.lang с переводом или на GregTechV2.lang('V2,V2.1,V0.1' сотрете из названия).
+
 GregTechV2.1.lang:
 
 ![image](https://user-images.githubusercontent.com/123076850/213664652-68ed4cfa-40b7-43fe-8c75-df8ca5e9c820.png)
@@ -12,9 +14,6 @@ GregTechV2.1.lang:
 
 GregTechV2.lang:
 ![image](https://user-images.githubusercontent.com/123076850/213554880-7b7a6fb8-43f0-4fb6-ae40-aaac3cbc9f21.png)
-
-
-Для установки просто замените оригинальный файл GregTech.lang в папке .minecraft на файл GregTech.lang с переводом или на GregTechV2.lang('V2,V2.1,V0.1' сотрете из названия).
 
 Перевод был сделан в PROMT Master NMT 23 и поэтому он очень плохого качества, в google и яндекс переводчике перевести не получилось (google говорил что файл поврежден а яндекс после перевода не довал скачать файл обратно)
 
