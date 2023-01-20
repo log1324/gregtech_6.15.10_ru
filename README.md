@@ -6,6 +6,10 @@ GregTechV2,V2.1.lang это 2 перевода разных версий (мех
 GregTechV2.1 сейчас самый лучший вариант в нем нет повторений оигинальных названий и заполнения пустых подсказок скобками,скачивать лучше ее.
 
 GregTechV2.1.lang:
+![image](https://user-images.githubusercontent.com/123076850/213664652-68ed4cfa-40b7-43fe-8c75-df8ca5e9c820.png)
+
+
+GregTechV2.lang:
 ![image](https://user-images.githubusercontent.com/123076850/213554880-7b7a6fb8-43f0-4fb6-ae40-aaac3cbc9f21.png)
 
 
